@@ -4,50 +4,16 @@
 
 
 ## 📖 Table of Contents
-* [📝 Problem Statement](#problem-statement)
-* [📊 Dataset Description](#dataset-description)
-* [🛠️ Tools & Technologies Used](#tools--technologies-used)
-* [🎯 Project Objective](#project-objective)
-* [🧹 Data Cleaning & Preparation](#data-cleaning--preparation)
-* [💻 SQL Analysis](#sql-analysis)
-* [🎨 Tableau Dashboard & Visualizations](#tableau-dashboard--visualizations)
-* [🖼️ Dashboard Preview](#dashboard-preview)
-* [🔥 Key Insights](#key-insights)
-* [🏁 Conclusion](#conclusion)
-
----
-
-## <a name="problem-statement"></a>📝 Problem Statement
-(Yaha apna context aur challenges wala text likho jo pehle se hai)
-
-## <a name="dataset-description"></a>📊 Dataset Description
-(Yaha dataset size aur columns wala table daalo)
-
-## <a name="tools--technologies-used"></a>🛠️ Tools & Technologies Used
-* **SQL (MySQL):** Data cleaning and KPIs.
-* **Tableau:** Interactive Dashboards.
-* **Excel:** Initial data exploration.
-
-## <a name="project-objective"></a>🎯 Project Objective
-(Yaha apne main goals likho)
-
-## <a name="data-cleaning--preparation"></a>🧹 Data Cleaning & Preparation
-(Yaha batao ki null values aur data types kaise fix kiye)
-
-## <a name="sql-analysis"></a>💻 SQL Analysis
-(Yaha apni SQL queries daalo)
-
-## <a name="tableau-dashboard--visualizations"></a>🎨 Tableau Dashboard & Visualizations
-(Yaha charts ka explanation daalo)
-
-## <a name="dashboard-preview"></a>🖼️ Dashboard Preview
-![E-Commerce Dashboard](./dashboard.png)
-
-## <a name="key-insights"></a>🔥 Key Insights
-(What, Why, Impact wale points yaha aayenge)
-
-## <a name="conclusion"></a>🏁 Conclusion
-(Final summary yaha aayegi)
+1. Problem Statement
+2. Dataset Description
+3. Tools and Technologies Used
+4. Project Objective
+5. Data Cleaning and Preparation
+6. SQL Analysis
+7. Tableau Dashboard and Visualizations
+8. Dashboard Preview
+9. Key Insights
+10. Conclusion
 
 ## 📝 Problem Statement
 ### Context: This project focuses on the comprehensive sales data analysis of an E-commerce company for the Calendar Year 2018. This year was a critical period for the organization as it focused on aggressive market expansion across diverse geographic regions and product categories.
